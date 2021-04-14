@@ -1,0 +1,4 @@
+四个Resnet-18网络 四个通道分开训练
+
+网络输入：第i个接收导频符号实部+第i个接收导频符号虚部（for i in range 256） 
+label： 第i个perfect H信道响应实部+第i个perfect H信道响应虚部（for i in range 256） 
